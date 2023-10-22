@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/badrinath_pandey_/#">
-<img src="https://www.instagram.com/static/images/ig-logo-200.png" alt="Instagram" style="width:40px;height:30px;">
+<img src="https://static.toiimg.com/thumb/msid-95210713,width-1280,height-720,resizemode-4/.jpg" alt="Instagram" style="width:40px;height:30px;">
 </a>
 <a href="https://www.linkedin.com/in/badrinath-pandey-91970b218/">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedin" style="width:40px;height:30px;">
