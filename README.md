@@ -47,8 +47,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&theme=dark" alt="badrinath960" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical" alt="badrinath960" /></p> <br> 
-<br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical" alt="badrinath960" /></p> 
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical" alt="badrinath960" /></p>
 
 <h3 align="left">Let’s Collaborate:</h3>
