@@ -46,8 +46,13 @@
 <p align="left">I am passionate about coding and continuously learning new technologies. My goal is to create innovative solutions that make a positive impact.</p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&theme=dark" alt="badrinath960" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical" alt="badrinath960" /></p> 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&theme=dark" alt="badrinath960" width="1100" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical&card_width=1100" alt="badrinath960" />
+</p>
+
 <div style="margin-bottom: 30px;"></div> <!-- Adjust the margin as needed -->
 <p style="margin-top: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical&card_width=1100" alt="badrinath960" />
