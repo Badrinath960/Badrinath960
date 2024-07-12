@@ -45,13 +45,6 @@
 <h3 align="left">About Me:</h3>
 <p align="left">I am passionate about coding and continuously learning new technologies. My goal is to create innovative solutions that make a positive impact.</p>
 
-<h3 align="left">My Projects:</h3>
-<ul>
-<li><a href="https://github.com/Badrinath960/project1">Project 1: Description</a></li>
-<li><a href="https://github.com/Badrinath960/project2">Project 2: Description</a></li>
-<li><a href="https://github.com/Badrinath960/project3">Project 3: Description</a></li>
-</ul>
-
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&" alt="badrinath960" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical" alt="badrinath960" /></p>
