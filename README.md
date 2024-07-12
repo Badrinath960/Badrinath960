@@ -52,3 +52,6 @@
 
 <h3 align="left">Let’s Collaborate:</h3>
 <p>If you're interested in collaborating on projects or sharing ideas, feel free to reach out!</p>
+
+<h3 align="left">🐍 Snake Animation:</h3>
+<img src="https://raw.githubusercontent.com/badrinath960/badrinath960/output/snake.svg" alt="Snake animation" />
