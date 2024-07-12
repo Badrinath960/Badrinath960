@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BADRINATH PANDEY</h1>
-<h3 align="center">A passionate learner of coding 👽</h3>
+<h3 align="center">A passionate learner of coding</h3>
 <img align="right" alt="coding" width="600" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badrinath960&label=Profile%20views&color=0e75b6&style=flat" alt="badrinath960" /> </p>
@@ -45,23 +45,10 @@
 <h3 align="left">About Me:</h3>
 <p align="left">I am passionate about coding and continuously learning new technologies. My goal is to create innovative solutions that make a positive impact.</p>
 
-<h3 align="left">My Projects:</h3>
-<ul>
-<li><a href="https://github.com/Badrinath960/project1">Project 1: Description</a></li>
-<li><a href="https://github.com/Badrinath960/project2">Project 2: Description</a></li>
-<li><a href="https://github.com/Badrinath960/project3">Project 3: Description</a></li>
-</ul>
-
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&" alt="badrinath960" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical" alt="badrinath960" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical" alt="badrinath960" /></p>
 
-<h3 align="left">Support My Work:</h3>
-<p><a href="https://www.buymeacoffee.com/badrinathpandey"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="badrinathpandey" /></a></p>
-
 <h3 align="left">Let’s Collaborate:</h3>
 <p>If you're interested in collaborating on projects or sharing ideas, feel free to reach out!</p>
-
-<h3 align="left">🐍 Snake Animation:</h3>
-<img src="https://raw.githubusercontent.com/badrinath960/badrinath960/output/snake.svg" alt="Snake animation" />
