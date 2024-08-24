@@ -16,30 +16,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40"/>
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
-</a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
 </p>
 
 <h3 align="left">About Me:</h3>
@@ -57,7 +57,6 @@
 <p style="margin-top: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical&card_width=1100" alt="badrinath960" />
 </p>
-
 
 <h3 align="left">Let’s Collaborate:</h3>
 <p>If you're interested in collaborating on projects or sharing ideas, feel free to reach out!</p>
