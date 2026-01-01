@@ -36,13 +36,15 @@ I am a passionate developer currently specializing in the **Data Field**. I beli
 ---
 
 ### 📊 My GitHub Journey
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="Badrinath's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" alt="Badrinath's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&theme=radical&hide_border=true&cache_seconds=1800" width="100%" alt="Badrinath's Streak" />
 </p>
 
 ---
