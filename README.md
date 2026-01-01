@@ -34,22 +34,6 @@ I am a developer at the intersection of **Data Science** and **Modern Web Develo
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Cloud & Others** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 
----
-
-### 📊 GitHub Data Insights
-*Note: If images don't load, please refresh the page.*
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badrinath960&theme=radical&bg_color=1a1b27&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
-</p>
-
----
-
 ### 🤝 Let's Collaborate!
 I am always looking for projects involving **Machine Learning integration**, **Cloud migration**, or **Automated Data Reporting**.
 
