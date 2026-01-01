@@ -1,56 +1,58 @@
-<h1 align="center">Hi 👋, I'm BADRINATH PANDEY</h1>
-<h3 align="center">A passionate learner of coding</h3>
-<img align="right" alt="coding" width="600" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badrinath960&label=Profile%20views&color=0e75b6&style=flat" alt="badrinath960" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/badrinath_pandey_/#">
-<img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="badrinath_pandey_" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/badrinath-pandey-91970b218/">
-<img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="badrinath-pandey" height="30" width="40" />
-</a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40"/>
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
-</a>
-</p>
-<h3 align="left">About Me:</h3>
-<p align="left">I am passionate about coding and continuously learning new technologies. My goal is to create innovative solutions that make a positive impact.</p>
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&theme=dark" alt="badrinath960" width="1100" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical&card_width=1100" alt="badrinath960" />
-</p>
-<div style="margin-bottom: 30px;"></div> <!-- Adjust the margin as needed -->
-<p style="margin-top: 10px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical&card_width=1100" alt="badrinath960" />
-</p>
-<h3 align="left">Let’s Collaborate:</h3>
-<p>If you're interested in collaborating on projects or sharing ideas, feel free to reach out!</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Badrinath%20Pandey&fontSize=70&animation=fadeIn" />
+  
+  ### 🚀 Data Engineer & Full-Stack Developer
+  *Bridging the gap between raw data and scalable applications*
+</div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/badrinath-pandey-91970b218/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/badrinath_pandey_/#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💫 About Me
+I am a passionate developer currently specializing in the **Data Field**. I believe that data is only as good as the systems built to process it. My goal is to build intelligent, data-driven applications that simplify complex workflows.
+
+- 🔭 **Current Focus:** Optimizing data pipelines and developing full-stack web solutions.
+- ⚡ **Philosophy:** "Code for efficiency, design for humans, and analyze for insight."
+- 🏗️ **Currently Working On:** Integrating Machine Learning models into Django web environments.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+| **Category** | **Tools & Languages** |
+| :--- | :--- |
+| **Data & Databases** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **Backend Dev** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
+| **Frontend Dev** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+
+---
+
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&theme=radical&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate!
+Whether it's a **Data Science** project, a **Web App**, or just a chat about the future of AI, my inbox is always open!
+
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/badrinath-pandey-91970b218/)**
+- 😄 Pronouns: He/Him
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=badrinath960&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="badrinath960" />
+</div>
