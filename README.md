@@ -33,22 +33,7 @@ I am a passionate developer currently specializing in the **Data Field**. I beli
 | **Backend Dev** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
 | **Frontend Dev** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
 
----
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/badrinath960?base=header,repositories,metadata&base.indepth=true&config.timezone=Asia%2FCalcutta&theme=radical" width="100%" alt="Detailed Metrics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badrinath960&theme=radical&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=badrinath960&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=badrinath960&theme=radical&no-bg=true&margin-w=15" width="48%" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🤝 Let's Collaborate!
 Whether it's a **Data Science** project, a **Web App**, or just a chat about the future of AI, my inbox is always open!
