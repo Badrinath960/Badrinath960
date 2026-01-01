@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Badrinath%20Pandey&fontSize=70&animation=fadeIn" />
   
-  ### 🚀 Data Engineer & Full-Stack Developer
+  ### 🚀 Data Scientist & Full-Stack Developer
   *Bridging the gap between raw data and scalable applications*
 </div>
 
