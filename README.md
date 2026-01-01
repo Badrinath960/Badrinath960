@@ -35,16 +35,17 @@ I am a passionate developer currently specializing in the **Data Field**. I beli
 
 ---
 
-### 📊 My GitHub Journey
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badrinath960&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="Badrinath's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrinath960&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" alt="Badrinath's Top Languages" />
+  <img src="https://metrics.lecoq.io/badrinath960?base=header,repositories,metadata&base.indepth=true&config.timezone=Asia%2FCalcutta&theme=radical" width="100%" alt="Detailed Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badrinath960&theme=radical&hide_border=true&cache_seconds=1800" width="100%" alt="Badrinath's Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badrinath960&theme=radical&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=badrinath960&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=badrinath960&theme=radical&no-bg=true&margin-w=15" width="48%" alt="GitHub Trophies" />
 </p>
 
 ---
